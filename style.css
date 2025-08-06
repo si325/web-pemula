@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  background-color: blue;
+}
+
+.header {
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+
+.header .judul {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.content {
+  padding: 20px;
+}
+
+.content h3 {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.content p {
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: black;
+  padding: 20px;
+}
+
+.footer .copy {
+  color: yellow;
+  text-align: center;
+}
